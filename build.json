@@ -1,0 +1,9 @@
+{
+	"id": "grey_mode",
+	"version": "1.0",
+	"description": "Grey Mode",
+	"categories": [
+		"accessibility"
+	],
+	"compatible_from": "2019.1"
+}
